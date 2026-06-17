@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd {
+    background-color: hsl(319, 100%, 50%);
+    font-family: verdana, dejaVu sans, sans-serif;
+}
+
+#number {
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(11, 187, 117);
+    font-size: 24px;
+}
