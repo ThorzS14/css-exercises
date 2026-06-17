@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.leftside {
+    background-color: black;
+    color: white;
+}
+
+.rightside {
+    background-color: yellow;
+}
+
+* {
+    font-family: Helvetica, Times New Roman sans-serif;
+}
